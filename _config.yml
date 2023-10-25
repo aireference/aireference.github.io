@@ -1,16 +1,16 @@
 #-------------------------------
 # General Site Settings
 
-title: Mao Mao CV Blog
+title: AI Reference
 description: AI tools and reference management # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 # baseurl: "/galada"
-url: "https://MaoMaoCV.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://AIReference.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
 # About Section
-author-name:   Mao Mao
+author-name:   AI Reference
 author-avatar: 09.jpg # Avatar image which will be showing in the posts
 
 
@@ -18,7 +18,7 @@ author-avatar: 09.jpg # Avatar image which will be showing in the posts
 # Contact links
 facebook:  https://facebook.com/ # Add your Facebook handle
 twitter:   https://twitter.com/ # Add your Facebook handle
-instagram: https://www.instagram.com/mao_mao_mao_mao/ # Add your Facebook handle
+instagram: https://www.instagram.com/ # Add your Facebook handle
 pinterest: https://www.pinterest.com/ # Add your Facebook handle
 
 # #-------------------------------
