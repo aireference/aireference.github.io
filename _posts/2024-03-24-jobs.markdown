@@ -3,7 +3,7 @@ layout: post
 title:  兼职日结工
 date:   2024-03-23 10:00:55+0800
 image:  job.jpg
-tags:   [Courses, AI]
+tags:   [Job]
 ---
 
 **职位名称：博士项目申请文档管理助理**
